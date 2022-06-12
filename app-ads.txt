@@ -80,3 +80,6 @@ pubnative.net, 1007040, RESELLER, d641df8625486a7b
 pubnative.net, 1006955, RESELLER, d641df8625486a7b
 reforge.in, 107, RESELLER
 reforge.in, 353, RESELLER
+appnexus.com, 13297, RESELLER
+xandr.com, 13297, RESELLER
+pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
